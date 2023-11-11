@@ -8,6 +8,41 @@ import Contact from '../Contact';
 import Portfolio from '../Portfolio';
 
 const Layout = (props) => {
+
+  console.log(`Art by Blazej Kozlowski
+
+       _
+       \`*-.
+        )  _\`-.
+       .  : \`. .
+       : _   '  \\
+       ; *\` _.   \`*-._
+       \`-.-'          \`-.
+         ;       \`       \`.
+         :.       .        \\
+         . \\  .   :   .-'   .
+         '  \`+.;  ;  '      :
+         :  '  |    ;       ;-.
+         ; '   : : \`-:     _.\`* ;
+[bug] .*' /  .*' ; .*\`- +\'  \`*'
+      \`*-*   \`*-*  \`*-*
+
+
+Hey! 👋 Hello to all the curious folks looking in the console!
+I hope you're having a good day and enjoying my website.
+
+If you want to know more about me, you can visit my website here 👉 https://franci-lobbie.fr or check out my GitHub account at https://github.com/francilobbie.
+
+
+Thanks to Slobodan for his React portfolio clone tutorial. You can find the turorial on his YouTube channel. You can find the tutorial here 👉 https://www.youtube.com/watch?v=ESHaail1eGc
+
+
+
+See you soon! 🙂
+`);
+
+
+
   return (
     <div className='app'>
       <Sidebar />
@@ -30,5 +65,6 @@ const Layout = (props) => {
     </div>
   );
 };
+
 
 export default Layout;

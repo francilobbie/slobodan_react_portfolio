@@ -7,7 +7,6 @@ import portfolioData from "../../data/portfolio.json";
 
 const Portfolio = () => {
 
-  console.log(portfolioData);
   const [letterClass, setLetterClass] = useState('text-animate')
   const refForm = useRef()
 

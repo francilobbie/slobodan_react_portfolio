@@ -7,10 +7,16 @@
       "url": "https://www.google.com/"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "Aibnb Clone",
-      "description": "Ruby, Ruby on Rails, Tailwind CSS, PostgreSQL, Heroku",
-      "url": "https://www.google.com/"
+      "cover": "/portfolio/1/two.png",
+      "title": "React Pokedex",
+      "description": "React.js, TypeScript, Material UI, Firebase",
+      "url": "https://react-pokemons-app-58d5f.web.app/"
+    },
+    {
+      "cover": "/portfolio/1/three.png",
+      "title": "Robbie Lens Portfolio",
+      "description": "HTML, CSS,",
+      "url": "https://robbie-lens.pages.dev/"
     }
   ]
 }
