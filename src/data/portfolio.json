@@ -1,0 +1,16 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "Aibnb Clone",
+      "description": "Ruby, Ruby on Rails, Tailwind CSS, PostgreSQL, Heroku",
+      "url": "https://www.google.com/"
+    },
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "Aibnb Clone",
+      "description": "Ruby, Ruby on Rails, Tailwind CSS, PostgreSQL, Heroku",
+      "url": "https://www.google.com/"
+    }
+  ]
+}
